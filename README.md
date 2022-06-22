@@ -12,3 +12,16 @@ Insert your profile list on data.csv file and modify the path on credentials.yml
 > csv:
 >   file: "file path.csv"
 
+
+# Dependencies
+linkedin_api
+> pip3 install linkedin-api~=2.0.0a
+
+yaml
+> pip install pyyaml
+
+pandas
+> pip install pandas
+
+json
+>pip install json
