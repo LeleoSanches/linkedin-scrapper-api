@@ -13,7 +13,6 @@ Insert your profile list on data.csv file and modify the path on credentials.yml
 >   file: "file path.csv"
 
 ### Script
-To run the script
 > python request-linkedin.py
 
 
